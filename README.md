@@ -4,6 +4,8 @@ This repository contains the information of final project for Data Science I: Fo
 
 ### **A Study of New York Times News Reports**
 
+Tian Tong, Wendy Shi, Irene Chen
+
 #### Abstract:
 
 The role of news media in shaping public opinion has been a well-discussed topic by scholars. With the New York Times API and US news ranking on pollution, our research found no significant relationship between higher pollutant levels and higher media coverage in terms of the absolute number of news reports they receive and the mean sentiment level of each article. This means states with higher pollutants deserve more media attention in raising awareness of the potential health risks. 
