@@ -1,12 +1,14 @@
 This repository contains the information of final project for Data Science I: Foundations.
 
-### **Exploring Pollution Levels and Media Trends Between States:** 
+### **Exploring Pollution Levels and Media Trends Between States:**
 
 ### **A Study of New York Times News Reports**
 
-#####  Tian Tong, Wendy Shi, Irene Chen
+##### Tian Tong, Wendy Shi, Irene Chen
 
--   (i) Python Code:
+-   
+
+    (i) Python Code:
 
     *'Python_web_scrapping_sentiment.ipynb'* : This code is used to scrape data and calculate the mean sentiment score across collected states
 
@@ -53,3 +55,7 @@ This repository contains the information of final project for Data Science I: Fo
     senti_clean.csv : Data set that contains mean sentiment score and total number of articles available.
 
     Usnews_ranking.csv : US news ranking
+
+    CT_data: Data set that contains all the articles of the state Connecticut
+
+    NJ_data: Data set that contains all the articles of the state New Jersey
